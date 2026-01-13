@@ -1,5 +1,0 @@
-node {
-  stage('Hello') {
-    bat 'echo Hello World'
-  }
-}
